@@ -1,4 +1,4 @@
-# 🎓 Student Portal Project
+# Clinic Booking System and Student Portal Project
 
 This repository includes two parts:
 
